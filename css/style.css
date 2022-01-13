@@ -1,0 +1,202 @@
+@import url(reset.css);
+
+/*Начало блока MyPhoto*/
+
+body{
+     background-color: #EAEAEA;
+}
+
+#wrapper{
+    width: 1024px;
+    min-height: 1100px;
+    margin: 0 auto;
+    background-color: #EAEAEA;
+    outline: 0px solid #39f806;
+}
+
+#MyPhoto{
+    height: 275px;
+    position: relative;
+    padding: 25px 50px;
+    outline: 0px solid #39f806;
+}
+
+.photo{
+    width: 240px;
+    height: 290px; 
+    border-radius: 15px;
+    box-shadow: 0 0 4px 2px #333333;
+}
+
+.content{
+    
+}
+
+/*Начало блока Heading*/
+
+#Heading{
+    height: 300px;
+    position: absolute;
+    top: 20px;
+    left: 300px;
+    text-align: left;
+}
+
+/* Начало блока PersonalInformation */
+
+#PersonalInformation{
+
+}
+
+.contentFio{
+    font: 25px Arial, sans-serif;
+    color: #333333;
+    padding: 15px 20px;
+    
+}
+
+.contentTA{
+    font: 20px Arial, sans-serif;
+    color: #333333;
+    padding: 15px 20px;
+}
+
+.contentHead{
+    font: 20px Arial, sans-serif;
+    color: #333333;
+    padding: 5px 5px;
+    padding-left: 40px;
+}
+
+.contentMyself{
+    font: 20px Arial, sans-serif;
+    color: #757575;
+    padding: 2px 20px;
+}
+
+.contentP{
+    font: 20px Arial, sans-serif;
+    color: #333333;
+}
+
+a{
+   text-decoration: none;
+   color: #757575; 
+    
+}
+
+
+/*Блок ProfessionalExperience*/
+
+#ProfessionalExperience{
+    
+}
+
+#hobby{
+
+}
+
+.list{
+    padding-left: 20px;
+}
+
+.contentPE{
+    font: 17px Arial, sans-serif;
+    color: #333333;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+.line{
+    padding-top: 10px;
+}
+
+
+/*Блок Experience*/
+
+#Experience{
+    color: #333333;
+}
+
+.zvod{
+    font: 17px Arial, sans-serif;
+    padding: 2px 20px;
+}
+
+.speciality{
+    font: 17px Arial, sans-serif;
+    padding: 2px 20px;
+}
+
+.region{
+    font: 15px Arial, sans-serif;
+    padding: 2px 20px;
+}
+
+.period{
+    font: 13px Arial, sans-serif;
+    font-style: italic;
+    padding: 2px 20px;
+    
+}
+
+/*Блок Footer*/
+
+#Footer{
+    background-color: #E1E1E1;
+    position: relative;
+    outline: 0px solid #39f806;
+}
+
+#footerNav li{
+    float: left;
+    list-style-type: none;
+    outline: 0px solid #39f806;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+    padding-top: 15px;
+    padding-left: 40px;
+    cursor: pointer;
+   /* -webkit-filter: grayscale(100%); /* черно-белое */
+}
+
+.iconHab{
+    width: 30px;
+    height: 30px;
+    padding-top: 15px;
+    padding-left: 10px;
+    cursor: pointer;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
